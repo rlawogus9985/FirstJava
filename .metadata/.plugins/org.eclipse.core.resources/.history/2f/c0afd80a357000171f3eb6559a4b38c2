@@ -1,0 +1,18 @@
+package com.bit.hello.v;
+
+public class Value04 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+		int intSum = 0;
+		for(int intNum1 = 1;intNum1 <= 10;intNum1 ++) {
+			intSum += intNum1;
+		}
+		System.out.println(intSum);
+		
+		
+		
+	}
+
+}

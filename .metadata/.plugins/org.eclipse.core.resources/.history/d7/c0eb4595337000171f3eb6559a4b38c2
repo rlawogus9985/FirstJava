@@ -1,0 +1,20 @@
+package com.bit.hello.v;
+
+public class Value03 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+		// 반복적인 일을 처리하는 문장이 있다.
+		
+		int intNum1 = 0;
+		
+		// 무조건, 중단할 때까지, 계속 무한 반복
+		for( ;; ) {
+			intNum1 ++;
+			System.out.println(intNum1);
+		}
+		
+	}
+
+}
