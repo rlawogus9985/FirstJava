@@ -19,6 +19,8 @@ public class String_01 {
 		//strNation.
 		//"Republic of Korea".
 		System.out.println("Republic of Korea");
+		
+		// 문자열의 길이를 알려주는 method()
 		int intLength = strNation.length();
 		System.out.println(intLength);
 		
